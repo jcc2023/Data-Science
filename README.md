@@ -5,7 +5,8 @@ In this repository, I share interesting materials and code related to Data Scien
 
 En este proyecto se elaboran tres modelos de clasificación para analizar su utilidad en el estudio
 de los sentimientos de usuarios de aplicaciones del Google Play Store. El código está escrito en su
-totalidad en el lenguaje de programación Python.
+totalidad en el lenguaje de programación Python. Se proporciona también la base de datos con las
+reseñas en formato CSV.
 
 ## Instalación
 
