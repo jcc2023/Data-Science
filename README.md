@@ -8,7 +8,7 @@ In this repository, I share interesting materials and code related to Data Scien
 En este proyecto se elaboran tres modelos de clasificación para analizar su utilidad en el estudio
 de los sentimientos de usuarios de aplicaciones del Google Play Store. El código está escrito en su
 totalidad en el lenguaje de programación Python. Se proporciona también la base de datos con las
-reseñas en formato CSV.
+reseñas en formato CSV (googleplaystore_user_reviews.csv).
 
 ## Instalación
 
@@ -39,7 +39,8 @@ Puede ponerse en contacto con el autor del proyecto a través de juancristiano@h
 Desarrollé un modelo de análisis de sentimientos para tweets utilizando técnicas de machine learning. Este proyecto aborda la
 clasificación de opiniones en redes sociales mediante el procesamiento de lenguaje natural (NLP), explorando algoritmos como
 Random Forest y SVM (Support Verctor Machine). Implementé la limpieza y transformación de datos, extracción de características
-con TF-IDF y optimización del modelo para mejorar la precisión.
+con TF-IDF y optimización del modelo para mejorar la precisión. Se puede acceder a la base de datos utilizada en el siguiente enlace
+de Kaggle: https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
 
 ## Instalación
 
