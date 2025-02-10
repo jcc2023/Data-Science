@@ -3,7 +3,7 @@ In this repository, I share interesting materials and code related to Data Scien
 
 # Proyectos 
 
-# Nombre del Proyecto: 🚀 **Clasificación Automática de Reseñas de Aplicaciones del Google Play Store** 
+# Nombre del Proyecto: 🚀 Juan_Cristiano_Proyecto7 **Clasificación Automática de Reseñas de Aplicaciones del Google Play Store** 
 
 En el siguiente proyecto, trabajé en la **clasificación automática de reseñas de aplicaciones móviles** utilizando técnicas avanzadas de **Machine Learning y Procesamiento de Lenguaje Natural (NLP)**. El objetivo fue desarrollar un modelo capaz de analizar comentarios de usuarios y clasificarlos según su tono y contenido, proporcionando insights valiosos para desarrolladores y empresas. Se incluye en el repositorio el archivo con la base de datos de reseñas: googleplaystore_user_reviews.csv
 
