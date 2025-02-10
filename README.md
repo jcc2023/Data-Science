@@ -48,7 +48,7 @@ Puede ponerse en contacto con el autor del proyecto a través de juancristiano@g
 
 # Nombre del Proyecto: 🚀 Análisis de Sentimientos en Tweets con Machine Learning
 
-En éste proyecto en el que apliqué técnicas de **Procesamiento de Lenguaje Natural (NLP)** y **Machine Learning** para analizar sentimientos en tweets. Utilicé un dataset con más de 1.6 millones de tweets para entrenar un modelo capaz de clasificar opiniones como positivas o negativas.  
+En este proyecto apliqué técnicas de **Procesamiento de Lenguaje Natural (NLP)** y **Machine Learning** para analizar sentimientos en tweets. Utilicé un dataset con más de 1.6 millones de tweets para entrenar un modelo capaz de clasificar opiniones como positivas o negativas.  
 
 🔍 **Pasos clave del proyecto:**  
 ✅ **Preprocesamiento de datos:** limpieza de texto, eliminación de stopwords y tokenización.  
