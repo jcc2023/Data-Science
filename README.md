@@ -46,13 +46,24 @@ Este proyecto no está bajo Licencia.
 
 Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
 
-# Nombre del Proyecto-Análisis de Sentimientos en Tweets con Machine Learning: Predicción de Opiniones en Redes Sociales
+# Nombre del Proyecto: 🚀 Análisis de Sentimientos en Tweets con Machine Learning
 
-Desarrollé un modelo de análisis de sentimientos para tweets utilizando técnicas de machine learning. Este proyecto aborda la
-clasificación de opiniones en redes sociales mediante el procesamiento de lenguaje natural (NLP), explorando algoritmos como
-Random Forest y SVM (Support Verctor Machine). Implementé la limpieza y transformación de datos, extracción de características
-con TF-IDF y optimización del modelo para mejorar la precisión. Se puede acceder a la base de datos utilizada en el siguiente enlace
-de Kaggle: https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
+En éste proyecto en el que apliqué técnicas de **Procesamiento de Lenguaje Natural (NLP)** y **Machine Learning** para analizar sentimientos en tweets. Utilicé un dataset con más de 1.6 millones de tweets para entrenar un modelo capaz de clasificar opiniones como positivas o negativas.  
+
+🔍 **Pasos clave del proyecto:**  
+✅ **Preprocesamiento de datos:** limpieza de texto, eliminación de stopwords y tokenización.  
+✅ **Exploración de datos:** generación de visualizaciones para entender la distribución de los sentimientos.  
+✅ **Entrenamiento de modelos de Machine Learning:** probé diferentes algoritmos y optimicé los hiperparámetros para mejorar la precisión del análisis.  
+✅ **Evaluación del modelo:** métricas como accuracy, precision y recall para validar el desempeño.  
+
+💡 **Habilidades aplicadas:**  
+📌 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+📌 NLP (procesamiento y limpieza de texto)  
+📌 Machine Learning (entrenamiento y evaluación de modelos)  
+📌 Visualización de datos  
+📌 Análisis de sentimientos  
+
+Este proyecto me permitió fortalecer mis conocimientos en **IA aplicada a texto** y comprender mejor cómo las empresas pueden aprovechar el análisis de sentimientos para mejorar la experiencia del cliente y la toma de decisiones.
 
 ## Instalación
 
