@@ -73,9 +73,10 @@ Jupyter Notebook o Google Colab.
 
 ## Uso
 
-El proyecto se puede utilizar para clasificar nuevas reseñas acerca de las aplicaciones de acuerdo al
-sentimiento que transmiten las palabras del usuario. Cabe recordar que los textos deben estar en idioma
-inglés, ya que el modelo fue desarrollado para entender exclusivamente ese idioma.
+El proyecto se puede utilizar para clasificar nuevos tweets de acuerdo al
+sentimiento que transmiten las palabras del usuario. Cabe recordar que los
+textos deben estar en idioma inglés, ya que el modelo fue desarrollado para
+entender exclusivamente ese idioma.
 
 ## Contribuciones
 
@@ -136,6 +137,49 @@ Este proyecto no está bajo Licencia.
 
 Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
 
+# Nombre del Proyecto: Modelado no supervisado en Machine Learning: clustering para segmentación de clientes en una empresa financiera
+
+**Modelado no supervisado en Machine Learning**: **clustering** para segmentación de clientes en una empresa financiera. 
+---
+
+🚀 **Segmentación de Clientes con Machine Learning No Supervisado** 📊🤖  
+
+En este proyecto de **Ciencia de Datos e Inteligencia Artificial**, diseñé e implementé un modelo de **clustering** para una empresa financiera que busca segmentar a sus clientes y mejorar la personalización de sus productos.  
+
+🔹 **Objetivo:** Identificar la cantidad óptima de grupos para clasificar clientes según su salario, límite de crédito y productos financieros adquiridos.  
+
+🔹 **Habilidades aplicadas:**  
+✅ **Análisis y preprocesamiento de datos** con Python (Pandas, NumPy, Scikit-learn)  
+✅ **Aplicación de algoritmos de clustering** (K-Means)  
+✅ **Selección de la cantidad óptima de clusters** usando el **método del codo**  
+✅ **Evaluación del modelo** con métricas como el índice de silueta  
+✅ **Visualización de resultados** con Matplotlib y Seaborn  
+
+📊 **Resultados clave:**  
+✔️ Se identificaron patrones clave en los clientes para mejorar la toma de decisiones.  
+✔️ Se propusieron estrategias basadas en los segmentos obtenidos para personalizar ofertas de crédito.  
+
+Este proyecto me permitió fortalecer mis habilidades en **Machine Learning No Supervisado** y aplicar técnicas avanzadas para análisis de clientes. ¡Siempre en búsqueda de nuevos retos en Data Science y AI! 🚀  
+
+#MachineLearning #DataScience #ArtificialIntelligence #Clustering #KMeans #Python #CustomerSegmentation
+
+## Instalación
+
+Para ejecutar el código se requiere la utilización de un entorno de desarrollo de Python, 
+en particular se sugiere la utilización de un entorno especializado en Data Science como por ejemplo:
+Jupyter Notebook o Google Colab.
+
+## Contribuciones
+
+Se puede contribuir libremente al proyecto: por ejemplo adaptarlo para usarlo con otros idiomas.
+
+## Licencia
+
+Este proyecto no está bajo Licencia.
+
+## Contacto
+
+Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
 
 
 
