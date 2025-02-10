@@ -63,7 +63,7 @@ En este proyecto apliqué técnicas de **Procesamiento de Lenguaje Natural (NLP)
 📌 Visualización de datos  
 📌 Análisis de sentimientos  
 
-Este proyecto me permitió fortalecer mis conocimientos en **IA aplicada a texto** y comprender mejor cómo las empresas pueden aprovechar el análisis de sentimientos para mejorar la experiencia del cliente y la toma de decisiones.
+Este proyecto me permitió fortalecer mis conocimientos en **IA aplicada a texto** y comprender mejor cómo las empresas pueden aprovechar el análisis de sentimientos para mejorar la experiencia del cliente y la toma de decisiones. Se puede acceder a la base de datos utilizada para realizar el análisis a través de: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ## Instalación
 
@@ -160,6 +160,7 @@ En este proyecto de **Ciencia de Datos e Inteligencia Artificial**, diseñé e i
 ✔️ Se propusieron estrategias basadas en los segmentos obtenidos para personalizar ofertas de crédito.  
 
 Este proyecto me permitió fortalecer mis habilidades en **Machine Learning No Supervisado** y aplicar técnicas avanzadas para análisis de clientes. ¡Siempre en búsqueda de nuevos retos en Data Science y AI! 🚀  
+Las bases de datos utilizadas en el proyecto se pueden descargar en: https://drive.google.com/file/d/1wcjPCZPTMuDlyWcE1Do4-yqU5AglW_p9/view  y  https://drive.google.com/file/d/1Nkoc-6AeC3Vzy7gfCNB_DlWTs4dXz7Ug/view
 
 #MachineLearning #DataScience #ArtificialIntelligence #Clustering #KMeans #Python #CustomerSegmentation
 
