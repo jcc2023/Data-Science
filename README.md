@@ -3,12 +3,24 @@ In this repository, I share interesting materials and code related to Data Scien
 
 # Proyectos 
 
-# Nombre del Proyecto: Clasificación automática de reseñas de aplicaciones del Google Play Store
+# Nombre del Proyecto: 🚀 **Clasificación Automática de Reseñas de Aplicaciones del Google Play Store** 
 
-En este proyecto se elaboran tres modelos de clasificación para analizar su utilidad en el estudio
-de los sentimientos de usuarios de aplicaciones del Google Play Store. El código está escrito en su
-totalidad en el lenguaje de programación Python. Se proporciona también la base de datos con las
-reseñas en formato CSV (googleplaystore_user_reviews.csv).
+En el siguiente proyecto, trabajé en la **clasificación automática de reseñas de aplicaciones móviles** utilizando técnicas avanzadas de **Machine Learning y Procesamiento de Lenguaje Natural (NLP)**. El objetivo fue desarrollar un modelo capaz de analizar comentarios de usuarios y clasificarlos según su tono y contenido, proporcionando insights valiosos para desarrolladores y empresas. Se incluye en el repositorio el archivo con la base de datos de reseñas: googleplaystore_user_reviews.csv
+
+🔍 **Pasos clave del proyecto:**  
+✅ **Limpieza y preprocesamiento de datos:** eliminación de ruido, tokenización y normalización de texto.  
+✅ **Análisis exploratorio:** visualización de la distribución de reseñas y su relación con calificaciones.  
+✅ **Entrenamiento de modelos de Machine Learning:** probé distintos algoritmos de clasificación para determinar el mejor enfoque.  
+✅ **Despliegue de una API:** implementé un servicio que permite predecir la categoría de nuevas reseñas en tiempo real.  
+
+💡 **Habilidades aplicadas:**  
+📌 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+📌 NLP (procesamiento y análisis de texto)  
+📌 Machine Learning (entrenamiento y ajuste de modelos)  
+📌 Desarrollo de APIs con Flask  
+📌 Visualización de datos  
+
+Este proyecto me permitió profundizar en la aplicación de **IA para análisis de texto** y explorar su impacto en la experiencia del usuario y la toma de decisiones empresariales.
 
 ## Instalación
 
