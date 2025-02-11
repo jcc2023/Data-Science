@@ -230,6 +230,57 @@ Este proyecto no está bajo Licencia.
 
 Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
 
+# Nombre del Proyecto: 📊 Análisis y Modelado de Datos de Préstamos en Lending Club
+
+**📊 Análisis y Modelado de Datos de Préstamos en Lending Club**  
+
+En este proyecto, realicé un análisis detallado de un conjunto de datos de **Lending Club**, una empresa estadounidense de préstamos, con información de créditos emitidos entre **2007 y 2015**.  
+
+🔹 **📌 Contexto del problema:**  
+Las empresas financieras requieren un análisis preciso de datos crediticios para evaluar riesgos y tomar mejores decisiones. Trabajé con un dataset que incluye **estado del préstamo, historial de pagos, puntajes de crédito y consultas financieras**, abordando el problema en cuatro etapas clave:  
+
+✅ **Análisis exploratorio:** Identificación de patrones en datos de préstamos y clientes.  
+✅ **Limpieza de datos:** Eliminación de valores nulos, duplicados y tratamiento de datos atípicos.  
+✅ **Procesamiento de datos:** Creación de variables dummies y normalización de datos.  
+✅ **Reducción de dimensiones:** Aplicación de técnicas para mejorar la eficiencia del modelo.  
+
+🔹 **🎯 Metodología y herramientas:**  
+✔️ Exploración de datos con visualizaciones.  
+✔️ Transformación y normalización de variables.  
+✔️ Aplicación de **PCA (Análisis de Componentes Principales)** para reducción de dimensionalidad.  
+✔️ Evaluación de correlaciones entre variables clave.  
+
+🔹 **🛠️ Habilidades aplicadas:**  
+📌 **Python** (pandas, numpy, scikit-learn, seaborn, matplotlib)  
+📌 **Análisis Exploratorio de Datos (EDA)**  
+📌 **Limpieza y procesamiento de datos**  
+📌 **Reducción de dimensiones (PCA)**  
+
+💡 Este proyecto me permitió fortalecer mis habilidades en **análisis de datos y preparación para modelado predictivo**, aplicando técnicas clave en el sector financiero.  
+
+🚀 ¡Siempre aprendiendo y aplicando inteligencia artificial para resolver problemas del mundo real!  
+
+#DataScience #MachineLearning #Python #AnálisisDeDatos #Finanzas #ReducciónDeDimensiones
+
+## Instalación
+
+Para ejecutar el código se requiere la utilización de un entorno de desarrollo de Python, 
+en particular se sugiere la utilización de un entorno especializado en Data Science como por ejemplo:
+Jupyter Notebook o Google Colab.
+
+## Contribuciones
+
+Se puede contribuir libremente al proyecto: por ejemplo adaptarlo para usarlo con otros idiomas.
+
+## Licencia
+
+Este proyecto no está bajo Licencia.
+
+## Contacto
+
+Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
+
+
 
 
 
