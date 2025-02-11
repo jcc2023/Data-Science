@@ -182,5 +182,54 @@ Este proyecto no está bajo Licencia.
 
 Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
 
+# Nombre del Proyecto: **📊 Predicción de Salarios y Contrataciones en Empresas de Tecnología con Machine Learning**
+
+**📊 Predicción de Salarios y Contrataciones en Empresas de Tecnología con Machine Learning**  
+
+En este proyecto, diseñé dos modelos de **Machine Learning** para asistir a **Recursos Humanos** en la predicción de salarios esperados y la probabilidad de contratación en empresas tecnológicas.  
+
+🔹 **📌 Contexto del problema:**  
+Las empresas enfrentan el reto de ofrecer salarios competitivos y seleccionar candidatos adecuados. Para ello, analicé datos con variables como **experiencia, posición deseada, estado civil, hijos y nivel educativo**, con dos objetivos principales:  
+
+✅ **Predecir el salario esperado** mediante un **modelo de regresión lineal**.  
+✅ **Determinar si un postulante será contratado** usando un **modelo de regresión logística**.  
+
+🔹 **🎯 Metodología:**  
+✔️ Transformación de variables categóricas en dummies.  
+✔️ División de datos en entrenamiento y prueba.  
+✔️ Implementación de **regresión lineal y logística**.  
+✔️ Evaluación con **MSE, RMSE, R² y matriz de confusión**.  
+✔️ Visualización con **mapas de calor y gráficos**.  
+
+🔹 **🛠️ Habilidades aplicadas:**  
+📌 **Python** (pandas, numpy, scikit-learn, seaborn, matplotlib)  
+📌 **Machine Learning** (regresión lineal y logística)  
+📌 **Análisis y visualización de datos**  
+
+💡 Este proyecto reforzó mis habilidades en **modelado supervisado y análisis predictivo**, aplicando inteligencia artificial en un contexto empresarial real.  
+
+🚀 ¡Siempre aprendiendo y aplicando datos para la toma de decisiones!  
+
+#MachineLearning #DataScience #Python #RecursosHumanos #PredicciónSalarial #Clasificación
+
+## Instalación
+
+Para ejecutar el código se requiere la utilización de un entorno de desarrollo de Python, 
+en particular se sugiere la utilización de un entorno especializado en Data Science como por ejemplo:
+Jupyter Notebook o Google Colab.
+
+## Contribuciones
+
+Se puede contribuir libremente al proyecto: por ejemplo adaptarlo para usarlo con otros idiomas.
+
+## Licencia
+
+Este proyecto no está bajo Licencia.
+
+## Contacto
+
+Puede ponerse en contacto con el autor del proyecto a través de juancristiano@gmail.com
+
+
 
 
