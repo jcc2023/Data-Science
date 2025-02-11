@@ -210,6 +210,9 @@ Las empresas enfrentan el reto de ofrecer salarios competitivos y seleccionar ca
 
 🚀 ¡Siempre aprendiendo y aplicando datos para la toma de decisiones!  
 
+Se puede acceder a las bases de datos utilizadas mediante los siguientes enlaces: https://drive.google.com/file/d/1mwbTl_m-r6oyKVl_ZHPOE4Io5tMohkr1/view
+https://drive.google.com/file/d/1qZsrAcB-02Z-8RA6wHzG2ZpJvYOFrTwp/view
+
 #MachineLearning #DataScience #Python #RecursosHumanos #PredicciónSalarial #Clasificación
 
 ## Instalación
@@ -258,7 +261,9 @@ Las empresas financieras requieren un análisis preciso de datos crediticios par
 
 💡 Este proyecto me permitió fortalecer mis habilidades en **análisis de datos y preparación para modelado predictivo**, aplicando técnicas clave en el sector financiero.  
 
-🚀 ¡Siempre aprendiendo y aplicando inteligencia artificial para resolver problemas del mundo real!  
+🚀 ¡Siempre aprendiendo y aplicando inteligencia artificial para resolver problemas del mundo real! 
+
+Se puede acceder a la base de datos utilizada mediante el siguiente link: https://drive.google.com/file/d/1oxjXn7PkuqeSdQz5dOMXZOJfhJoBlX3T/view
 
 #DataScience #MachineLearning #Python #AnálisisDeDatos #Finanzas #ReducciónDeDimensiones
 
